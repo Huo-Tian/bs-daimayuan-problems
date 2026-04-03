@@ -25,4 +25,6 @@
 *每周本项目更改的时候，本文件也会进行更改…… GL & HF*
            *——来自HuoTian在项目启动时发布的言论*
 
+*我们正式宣布——bs-daimayuan-problems项目，正式进入Github并发布0.5.5预览版！*
+								*——来自HuoTian在BDP-XMP2026上发布的言论*
 Wrote in Xi'an, Shaanxi, China.
